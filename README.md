@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/texnofobix/Ftp2PushBullet.svg?branch=master)](https://travis-ci.org/texnofobix/Ftp2PushBullet)
 # Ftp2PushBullet
 
 Runs a ftp server locally that receives the data and sends via pushbullet as configured.
