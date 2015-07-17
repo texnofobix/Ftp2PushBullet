@@ -1,2 +1,2 @@
--e https://github.com/randomchars/pushbullet.py#egg=pushbullet.py
--e https://github.com/giampaolo/pyftpdlib#egg=pyftpdlib
+-e git+https://github.com/randomchars/pushbullet.py#egg=pushbullet.py
+-e git+https://github.com/giampaolo/pyftpdlib#egg=pyftpdlib
